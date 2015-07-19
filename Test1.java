@@ -1,6 +1,11 @@
 class Test1{
 
 	int age;
+public Test1(){
+
+	age=25;
+
+	}
 
 public static void main(String args[]){
 
